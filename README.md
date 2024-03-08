@@ -6,4 +6,5 @@ You could:
 - Report bugs
 - Suggest Improvments
 - Ask Questions (about app)
+- Feedback
 - Help others fix issue
