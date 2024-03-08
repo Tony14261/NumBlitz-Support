@@ -1,7 +1,6 @@
 ## NumBlitz Support
-The support place
-
-Go to the [Issue page](https://github.com/Tony14261/NumBlitz-Support/issues) <br>
+The support place <br>
+**Go to the [Issue page](https://github.com/Tony14261/NumBlitz-Support/issues)** <br>
 You could:
 - Report bugs
 - Suggest Improvments
